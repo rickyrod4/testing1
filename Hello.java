@@ -10,6 +10,7 @@ public class Main {
 
     for (int element:arr) {
         System.out.println(element);
+//jej
 
     }
 
