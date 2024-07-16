@@ -1,7 +1,5 @@
-public static void arr {
-
-    String [] cars = {"Ford", "BMW", "Kia", "Toyota"};
-
-    System.out.println("Here is the list of cars");
+public class TestArray{
+    publis static void main{String[] args}{
+        
+    }
 }
-
