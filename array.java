@@ -1,9 +1,13 @@
 public class TestArray{
     public static void main(String[] args){
-        printName("John");
+        
+        //Create a new array
+        String [] cars = {"Ford", "Kia", "Toyota"};
+
+        String x = cars[0];
+
+        System.out.println(x);
+
     }
-    private static String printName(String name){
-       System.out.println(name);
-       return name;
-    }
+
 }

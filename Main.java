@@ -1,9 +1,9 @@
 
 public class Main {
     public static void main(String []args){
-
-
-        System.out.println("Hello World");
+        String [] cars = {"Ford", "Kia", "Toyota"};
+        cars[0]= "Mustang";
+        System.out.println(cars[0]);
 
     }
 }
