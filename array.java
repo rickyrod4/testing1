@@ -1,5 +1,9 @@
 public class TestArray{
-    publis static void main{String[] args}{
-        
+    public static void main(String[] args){
+        printName("John");
+    }
+    private static String printName(String name){
+       System.out.println(name);
+       return name;
     }
 }
